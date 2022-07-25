@@ -2,7 +2,7 @@
 package sayakAvengerTelueskoprog;
 class pattarn {
 	
-	 public static void main(String sayak[]){
+	 public static void main(String SayakSingha[]){
       int n=11; System.out.println(" \n\n-----------------------------------------------------------------------------------------------------------------\n\n");
       //Thanks
       
