@@ -4,7 +4,7 @@ class pattarn {
 	
 	 public static void main(String sayak[]){
       int n=11; System.out.println(" \n\n-----------------------------------------------------------------------------------------------------------------\n\n");
-      //Thanks
+      //Print Thanks
       
       for(int i=1;i<=n;i++) {
     	  
