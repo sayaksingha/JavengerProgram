@@ -1,10 +1,10 @@
-package sayakAvengerTelueskoprog;
 
+package sayakAvengerTelueskoprog;
 class pattarn {
 	
 	 public static void main(String sayak[]){
       int n=11; System.out.println(" \n\n-----------------------------------------------------------------------------------------------------------------\n\n");
-      //Print Thanks
+      //Thanks
       
       for(int i=1;i<=n;i++) {
     	  
@@ -115,11 +115,11 @@ class pattarn {
     			  System.out.print(" ");
     		  }
       }
-    	  //W
+    	  //u
     	  
     	  System.out.print("\t");
     	  for(int j=1;j<=n;j++) {
-    		  if(j==1||j==n||i+j==n+1&&j<=n/2+1||i==j&&j>=n/2+1) {
+    		  if(j==1||j==n||i==n) {
     			  System.out.print("*");
     		  }
     		  else {
