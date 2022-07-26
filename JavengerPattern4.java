@@ -1,6 +1,6 @@
 
 
-public class JavengerPattern4 {
+ class JavengerPattern4 {
 
 	public static void main(String[] args) {
 	 	int n=13;
