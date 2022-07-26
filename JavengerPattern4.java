@@ -1,4 +1,4 @@
-package sayakAvengerTelueskoprog;
+
 
 public class JavengerPattern4 {
 
