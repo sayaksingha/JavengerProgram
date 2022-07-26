@@ -1,5 +1,4 @@
 
-package sayakAvengerTelueskoprog;
 class pattarn {
 	
 	 public static void main(String SayakSingha[]){
