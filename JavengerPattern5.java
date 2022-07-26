@@ -1,6 +1,4 @@
-package sayakAvengerTelueskoprog;
-
-public class JavengerPattern5 {
+ class JavengerPattern5 {
 	public static void main(String[] args) {
 		System.out.println("\n\n\n");
 	 	int n=13;
