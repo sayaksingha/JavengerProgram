@@ -1,4 +1,4 @@
-package sayakAvengerTelueskoprog;
+
 
  class JavengerPattern3 {
    public static void main(String a[]) {
